@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Nick Davidson – Nurse, Singer, Developer"
+theme = "ndd"
